@@ -5,11 +5,17 @@ This open source repository contains Microsoft Word formatted documents for cybe
 ## Is there a framework to the documents?
 
 At a minimum, every document should have sections including:
+
 DESCRIPTION: The attack/cyber scenario
+
 ADVANCED: An advanced section with high level questions to evoke the greatest thought and identify gaps in readiness
+
 GUIDED: A guided section that will contain questions around triage, containment, remediation and company processes
+
 BEST PRACTICES: Some contributors may also include an optional best practices section as an aid to the facilitator outlining industry best practices
+
 REFERENCES: An optional section of additional references and reading material to learn more.
+
 
 ## Contributing
 
